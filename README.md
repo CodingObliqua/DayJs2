@@ -12,7 +12,7 @@ Saves the entered event text in local storage when you click the save button.
 Persists the saved events even when you refresh the page.
 Example page
 
-![My example page](assets/DayJsGif.gif)
+![My example page](Assets/DayJsGif.gif)
 
 
 ## Installation
